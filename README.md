@@ -1,4 +1,4 @@
-#Hi, I'm Harry!
+Hi, I'm Harry!
 
 I study computer science at Georgia Tech and will be graduating in May 2024!
 
