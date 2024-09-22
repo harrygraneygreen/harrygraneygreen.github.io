@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, I'm Harry"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hello, welcome to my website!
-### I'm Harry Graney Green
+#About Me
 
 I am a Software Engineer based in the NYC area and I work at SMBC.
 
